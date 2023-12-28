@@ -1,0 +1,127 @@
+ html {
+     box-sizing: border-box;
+}
+ *, *:before, *:after {
+     box-sizing: inherit;
+}
+ @font-face {
+     font-family: 'Heldane Reg';
+     src: url('../fonts/heldane/test-heldane-text-regular.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Reg Ita';
+     src: url('../fonts/heldane/test-heldane-text-regular-italic.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Med';
+     src: url('../fonts/heldane/test-heldane-text-medium.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Bold';
+     src: url('../fonts/heldane/test-heldane-text-bold.woff2') format('woff2');
+}
+ body{
+     background-color: rgb(229, 222, 206);
+     font-family: 'Heldane Reg', serif;
+     color: #000;
+     padding: 0;
+     margin: 0;
+}
+ cite, blockquote, p, ul, ol{
+     padding: 0;
+     margin: 0;
+}
+ nav{
+     margin-bottom: 50px;
+}
+ header{
+     margin: 15px 0 90px 0;
+}
+ footer{
+     margin: 90px 0 15px 0;
+}
+ cite + blockquote{
+     padding-top: 20px;
+}
+ blockquote + cite {
+     padding-top: 10px;
+}
+ ol + p{
+     padding-top: 20px;
+}
+ p + p{
+     margin-top: 10px;
+}
+ h1{
+     margin: 20px 0 70px 0;
+}
+ .wrap{
+     max-width: 970px;
+     width: 90vw;
+     margin: auto;
+}
+ .h2{
+     max-width: 600px;
+}
+ .hide{
+     display: none;
+}
+ .smallcaps{
+     font-family: 'Heldane Med', serif;
+     font-variant: small-caps;
+     letter-spacing: 0.12em;
+     text-transform: lowercase;
+}
+ .smallcaps.postcode{
+     letter-spacing: 0.07em;
+     padding-left: 0.15em;
+}
+ .num{
+     font-variant-numeric: oldstyle-nums;
+}
+
+.bullet {
+  font-size: 14px;
+  padding: 0 3px;
+}
+
+ .h2{
+     font-family: 'Heldane Reg', serif;
+     font-weight: 400;
+}
+ .lead{
+     font-family: 'Heldane Med', serif;
+}
+ .ampersand{
+     height: 12px;
+     padding-top: 2px;
+}
+ p{
+     font-size: 17px;
+}
+ a{
+     text-decoration: none;
+     color: green;
+}
+ a:hover{
+     text-decoration: underline;
+     color: green;
+}
+ ul{
+     overflow: visible;
+}
+ ol{
+     counter-reset: item;
+}
+ ol li{
+     list-style: none;
+}
+ ol li:before {
+     counter-increment: item;
+     content: counter(item, decimal-leading-zero);
+     padding: 0 10px 0 0;
+}
+ ::selection {
+     background: rgba(200,0,0,0.1);
+}
+ 
