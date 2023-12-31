@@ -96,6 +96,25 @@
      height: 12px;
      padding-top: 2px;
 }
+
+img.about{
+     width: 200px;
+     border-radius: 3px;
+}
+
+.grid-split{
+     display: flex;
+}
+
+.grid-split div:nth-child(2){
+     padding-left: 20px;
+}
+
+.grid-split small{
+     margin-top: 10px;
+     display: block;
+}
+
  p{
      font-size: 17px;
 }
