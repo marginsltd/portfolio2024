@@ -1,0 +1,30 @@
+ @font-face {
+     font-family: 'Heldane Reg';
+     src: url('../fonts/heldane/test-heldane-text-regular.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Reg Ita';
+     src: url('../fonts/heldane/test-heldane-text-regular-italic.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Med';
+     src: url('../fonts/heldane/test-heldane-text-medium.woff2') format('woff2');
+}
+ @font-face {
+     font-family: 'Heldane Bold';
+     src: url('../fonts/heldane/test-heldane-text-bold.woff2') format('woff2');
+}
+
+
+ body{
+     font-family: 'Heldane Reg', serif;
+}
+
+ .h2{
+     font-family: 'Heldane Reg', serif;
+     font-weight: 400;
+}
+ .lead{
+     font-family: 'Heldane Med', serif;
+     font-weight: 400;
+}
