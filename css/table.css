@@ -17,9 +17,8 @@
  th{
      border-bottom: 1px solid rgba(0,0,0,1);
 }
- td{
-     font-variant-numeric: oldstyle-nums;
-}
+
+
  tr.work td:nth-child(1){
      font-size: 12px;
      vertical-align: middle;

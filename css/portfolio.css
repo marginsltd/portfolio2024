@@ -29,7 +29,6 @@
 }
 
 
-
  .wrap{
      max-width: 970px;
      width: 90vw;
@@ -39,10 +38,11 @@
      max-width: 600px;
 }
 
+
 /* Type */
 
  .smallcaps{
-     font-family: 'Heldane Med', serif;
+     /*font-family: 'Heldane Med', serif;*/
      font-variant: small-caps;
      letter-spacing: 0.12em;
      text-transform: lowercase;
@@ -81,15 +81,14 @@
      margin-top: 10px;
      display: block;
 }
-
- img.about{
+.grid-split img.about{
      width: 200px;
      border-radius: 3px;
 }
 
 
-
 /*Links*/
+
  a{
      text-decoration: none;
      color: green;
