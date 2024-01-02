@@ -8,12 +8,18 @@
 }
  th, td{
      vertical-align: top;
-     border-top: 1px solid rgba(0,0,0,0.3);
-     padding: 5px 0 7px 0;
+     border-top: 1px solid rgba(0,0,0,0.25);
+     padding: 7px 0 7px 0;
      text-align: left;
      overflow: hidden;
      text-overflow: ellipsis;
 }
+
+tr:nth-last-child(1) td{
+    /*background-color: pink;*/
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+
  th{
      border-bottom: 1px solid rgba(0,0,0,1);
 }
@@ -34,7 +40,7 @@
      background-color: rgb(229, 222, 206,0.75);
 }
  td.icon{
-     padding: 9px 5px 0 0;
+     padding: 10px 5px 0 0;
      vertical-align: top;
      text-align: right;
      white-space: nowrap;
@@ -47,8 +53,8 @@
  .company td{
      padding-bottom: 40px;
      padding-top: 10px;
-     border-top: 1px solid rgba(0,0,0,0.7);
-     border-bottom: 1px solid rgba(0,0,0,0.7);
+     border-top: 1px solid rgba(0,0,0,0.8);
+     /*border-bottom: 1px solid rgba(0,0,0,0.7);*/
 }
  .intro td{
      padding-top: 20px;
