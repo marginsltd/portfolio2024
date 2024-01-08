@@ -14,21 +14,10 @@
      font-family: 'Heldane Bold';
      src: url('../fonts/heldane/test-heldane-text-bold.woff2') format('woff2');
 }
- @font-face {
-     font-family: 'tiempos-text-regular-italic';
-     src: url('../fonts/tiempos/tiempos-text-regular-italic.woff2') format('woff2') 
-}
- @font-face {
-     font-family: 'tiempos-text-regular';
-     src: url('../fonts/tiempos/tiempos-text-regular.woff2') format('woff2') 
-}
- @font-face {
-     font-family: 'tiempos-text-semibold';
-     src: url('../fonts/tiempos/tiempos-text-semibold.woff2') format('woff2') 
-}
+
  body{
      font-family: 'Heldane Reg', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
-     font-family: 'Spectral', serif;
+     /*font-family: 'Spectral', serif;*/
 }
  .h2{
      font-weight: 400;
@@ -37,13 +26,20 @@
      font-weight: 400;
      line-height: 1.35em;
 }
+
+ em{
+     font-family: 'Heldane Reg Ita';
+     font-style: normal;
+ }
+
  .lead{
      font-family: 'Heldane Med', serif;
      font-weight: 400;
 }
  .nav{
-     font-family: 'Heldane Med', serif;
-     font-weight: 400;
+     /*font-family: 'Heldane Med', serif;*/
+     font-family: 'Spectral SC', serif;
+     font-weight: 600;
 }
  .smallcaps{
      /*font-family: 'Heldane Med', serif;*/
