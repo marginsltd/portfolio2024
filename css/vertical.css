@@ -47,9 +47,9 @@ p + p {
 	line-height: 0;
 }
 
-.footer{
+/*.footer{
 	margin-top: 40px;
-}
+}*/
 
 table.archive .company td{
      padding-bottom: 30px;
@@ -73,7 +73,9 @@ table.archive thead.video{
 
 
 table.archive tfoot tr td{
-     padding-top: 80px;
+     padding-top: 60px;
+     padding-bottom: 40px;
+
 /*     display: inline-block;*/
 
 }

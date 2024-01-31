@@ -8,3 +8,7 @@ a:hover{
      color: green;
      }
  
+
+.tfoot tr td a{
+     text-decoration: underline;
+}
