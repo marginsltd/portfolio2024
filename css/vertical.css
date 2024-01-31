@@ -1,0 +1,80 @@
+.h1 + .h3,
+.h1 + .details,
+.header + .main,
+p + p {
+	margin-top: 1em;
+}
+
+
+.nav {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.showreel{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.swatch{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.pantone,
+.hex,
+.cmyk{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.details {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.intro{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.video{
+	margin-bottom: 30px;
+}
+
+.header{
+	line-height: 0;
+}
+
+.footer{
+	margin-top: 40px;
+}
+
+table.archive .company td{
+     padding-bottom: 30px;
+     padding-top: 10px;
+}
+
+table.archive th, 
+table.archive td{
+     padding: 4px 0 4px 0;
+}
+
+
+table.archive thead td.video{
+	padding: 0;
+}
+
+
+table.archive thead.video{
+	line-height: 0;
+}
+
+
+table.archive tfoot tr td{
+     padding-top: 80px;
+/*     display: inline-block;*/
+
+}
+}

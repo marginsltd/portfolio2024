@@ -1,0 +1,217 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/AdobeFnt22.lst
+FileLength:5779
+FileModTime:643925062
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:773236
+FileModTime:643925062
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexMono
+FamilyName:IBM Plex Mono
+StyleName:Regular
+MenuName:IBM Plex Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Mono
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110308
+FileModTime:542505600
+NameArray:0,Win,1,IBM Plex Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSans-Italic
+FamilyName:IBM Plex Sans
+StyleName:Italic
+MenuName:IBM Plex Sans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:IBM Plex Sans Italic
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190172
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSans-Light
+FamilyName:IBM Plex Sans
+StyleName:Light
+MenuName:IBM Plex Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:183676
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Sans Light
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSans-Medium
+FamilyName:IBM Plex Sans
+StyleName:Medium
+MenuName:IBM Plex Sans Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans Medium
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSans-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:182716
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Sans Medium
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSans
+FamilyName:IBM Plex Sans
+StyleName:Regular
+MenuName:IBM Plex Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181492
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSans-SemiBold
+FamilyName:IBM Plex Sans
+StyleName:SemiBold
+MenuName:IBM Plex Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSans-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:182944
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Sans SemiBold
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif
+FamilyName:IBM Plex Serif
+StyleName:Regular
+MenuName:IBM Plex Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Serif
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/IBMPlexSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160352
+FileModTime:542494800
+NameArray:0,Win,1,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/droom/Dropbox/GOOD PRAXIS/Clients/2021 Client Protection Approaches/PA Delivery/5. Print documents/5.2 DRC EN Report/Packages/PA-DRC-Report-Apr2021_FR-Digital Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:643071835
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

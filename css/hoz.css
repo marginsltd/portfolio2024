@@ -1,0 +1,22 @@
+tr.work td.year {
+  padding-left: 7px;
+}
+
+.plus{
+  padding: 0 3px;
+}
+
+.nav .name{
+  width: 202px;
+  display: inline-block;
+/*  background-color: yellow;*/
+}
+
+.nav .focus{
+  width: 570px;
+  display: inline-block;
+}
+
+.footer small{
+  max-width: 500px;
+}

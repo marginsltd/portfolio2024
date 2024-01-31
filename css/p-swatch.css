@@ -1,0 +1,62 @@
+.swatch{
+	display: flex;
+	flex-grow: 1;
+	width: 700px;
+}
+
+.color{
+	width: 80px;
+	
+}
+.ink{
+	width: 80px; 
+	height: 80px;
+	border-radius: 8px;
+}
+
+
+.hex-2C2A29
+{
+	background-color: #2C2A29;
+}
+.hex-000000
+{
+	background-color: #000000;
+}
+
+.hex-FFFFFF
+{
+	background-color: #FFFFFF;
+}
+.hex-394A86
+{
+	background-color: #394A86;
+}
+.hex-FFF5E5
+{
+	background-color: #FFF5E5;
+}
+.hex-B4D8E9
+{
+	background-color: #B4D8E9;
+}
+.hex-D5DDE6
+{
+	background-color: #D5DDE6;
+}
+.hex-F9C196
+{
+	background-color: #F9C196;
+}
+.hex-84BC9C
+{
+	background-color: #84BC9C;
+}
+.hex-7bffaa
+{
+	background-color: #7bffaa;
+}
+
+
+
+

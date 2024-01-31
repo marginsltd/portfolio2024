@@ -1,49 +1,94 @@
- @font-face {
-     font-family: 'Heldane Reg';
-     src: url('../fonts/heldane/test-heldane-text-regular.woff2') format('woff2');
-}
- @font-face {
-     font-family: 'Heldane Reg Ita';
-     src: url('../fonts/heldane/test-heldane-text-regular-italic.woff2') format('woff2');
-}
- @font-face {
-     font-family: 'Heldane Med';
-     src: url('../fonts/heldane/test-heldane-text-medium.woff2') format('woff2');
-}
- @font-face {
-     font-family: 'Heldane Bold';
-     src: url('../fonts/heldane/test-heldane-text-bold.woff2') format('woff2');
-}
 
  body{
-     font-family: 'Heldane Reg', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
-     /*font-family: 'Spectral', serif;*/
-}
- .h2{
-     font-weight: 400;
-}
- .intro{
-     font-weight: 400;
-     line-height: 1.35em;
+     font-size: 16px;
+     line-height: 18px;
+  font-family: "Inter", sans-serif;
+  font-feature-settings: "calt";
+  webkit-font-feature-settings: "calt";
+  moz-font-feature-settings: "calt";
+  font-variant-ligatures: contextual;
 }
 
- em{
-     font-family: 'Heldane Reg Ita';
-     font-style: normal;
- }
 
- .lead{
-     font-family: 'Heldane Med', serif;
-     font-weight: 400;
+table.archive thead th,
+.nav {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 550;
+  letter-spacing: 0.08rem;
+  line-height: 1.35em;
+  overflow: none;
 }
- .nav{
-     /*font-family: 'Heldane Med', serif;*/
-     font-family: 'Spectral SC', serif;
-     font-weight: 600;
+
+.tfoot strong,
+.company strong{
+  font-weight: 550;
 }
- .smallcaps{
-     /*font-family: 'Heldane Med', serif;*/
-     font-family: 'Spectral SC', serif;
-     font-weight: 600;
+
+.address{
+opacity: 0.7;
+}
+
+
+.caps{
+  text-transform: uppercase;
+}
+
+.h1 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 2.25rem;
+}
+.h3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.35em;
+}
+p {
+  font-size: 1rem;
+  line-height: 1.35em;
+  line-height: 1.38em;
+}
+
+small,
+.archive {
+  font-size: 13px;
+  line-height: 16px;
+  line-height: 17px;
+/*  line-height: 13px;*/
+/*  display: inline;*/
+
 
 }
+
+.blockquote {
+  font-size: 1rem;
+  line-height: 1.35em;
+  line-height: 1.38em;
+}
+
+.lead {
+  font-weight: 600;
+}
+.details {
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.15rem;
+}
+
+.pantone,
+.hex,
+.cmyk{
+  font-family: "Roboto Mono", monospace;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  opacity: 0.8;
+}
+
+
+tr.work td.year {
+  font-size: 9px;
+}
+
