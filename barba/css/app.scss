@@ -1,0 +1,17 @@
+$white: #fff;
+
+body {
+  margin-top: 100px;
+}
+.section-one, .section-two, .section-three {
+  margin-bottom: 30px;
+}
+.text-white-li {
+  li {
+    color: $white;
+  }
+}
+
+footer {
+  padding: 50px 0;
+}
