@@ -1,0 +1,21 @@
+.discovery{
+    display: grid;
+    background-color: black;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    width: 700px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.discovery.s2{
+    grid-template-columns: 1fr 1fr;
+}
+
+.discovery.s4{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.discovery img{
+    border-radius: 2px;
+}

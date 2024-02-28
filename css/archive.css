@@ -31,6 +31,7 @@ table.archive td.mark{
 }
 table.archive th.sticky{
      background-color: rgba(217, 217, 217,0.7);
+     backdrop-filter: blur(4px);
      position: sticky;
      z-index: 999;
      top: 0;

@@ -1,0 +1,9 @@
+.tiles{
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     grid-gap: 5px;
+     max-width: 700px;
+}
+ .tiles img{
+     border-radius: 3px;
+}
