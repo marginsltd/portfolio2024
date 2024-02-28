@@ -20,6 +20,30 @@
      padding: 0;
 }
 
+a{
+     text-decoration: none;
+     color: #000;
+     }
+
+a:hover{
+     text-decoration: none;
+     color: green;
+     }
+
+
+hr
+{
+  padding: 0;
+  margin: 25px 0;
+  height: 1px;
+  background: none;
+  border-top: 1px solid rgba(0,0,0,0.3);
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+
 .wrap{
      max-width: 970px;
      width: 90vw;
@@ -33,10 +57,6 @@
      width: 700px;
 }
 
-.intro{
-     width: 520px;
-}
-
 .project img{
      max-width: 700px;
 }
@@ -46,23 +66,8 @@ img.max{
      width: 100%;
 }
 
-
-
-}
-
 .showreel{
     mix-blend-mode: multiply;
 }
 
-.footer{
-    padding: 0 0 0 54px;
-}
 
-
-hr
-{
-  padding: 0;
-  margin: 15px 0;
-  border-top: 1px solid black;
-  background: black;
-}

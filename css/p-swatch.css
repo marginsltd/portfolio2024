@@ -1,17 +1,36 @@
+.pantone,
+.hex,
+.cmyk{
+  font-family: "Roboto Mono", monospace;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  opacity: 0.8;
+}
+
 .swatch{
 	display: flex;
 	flex-grow: 1;
 	width: 700px;
 }
 
-.color{
-	width: 80px;
-	
+.pantone,
+.hex,
+.cmyk{
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
+
 .ink{
-	width: 80px; 
-	height: 80px;
-	border-radius: 8px;
+	width: 70px; 
+	height: 70px;
+	border-radius: 50%;
+}
+
+
+.colour{
+	margin-left: 10px;
 }
 
 
@@ -60,3 +79,36 @@
 
 
 
+.hex-f0e8db{
+	background-color: #f0e8db;	
+}
+.hex-0d0d0d{
+	background-color: #0d0d0d;	
+}
+.hex-996619{
+	background-color: #996619;	
+}
+.hex-632930{
+	background-color: #632930;	
+}
+.hex-3f5828{
+	background-color: #3f5828;	
+}
+
+
+
+.hex-9eaaad{
+	background-color: #9eaaad;
+}
+.hex-cfd5d6{
+	background-color: #cfd5d6;
+}
+.hex-506031{
+	background-color: #506031;
+}
+.hex-d9e021{
+	background-color: #d9e021;
+}
+.hex-fcee21{
+	background-color: #fcee21;
+}

@@ -9,26 +9,9 @@
   font-variant-ligatures: contextual;
 }
 
-
-table.archive thead th,
-.nav {
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 550;
-  letter-spacing: 0.08rem;
-  line-height: 1.35em;
-  overflow: none;
-}
-
-.tfoot strong,
-.company strong{
+strong{
   font-weight: 550;
 }
-
-.address{
-opacity: 0.7;
-}
-
 
 .caps{
   text-transform: uppercase;
@@ -44,22 +27,6 @@ opacity: 0.7;
   font-weight: 400;
   line-height: 1.35em;
 }
-p {
-  font-size: 1rem;
-  line-height: 1.35em;
-  line-height: 1.38em;
-}
-
-small,
-.archive {
-  font-size: 13px;
-  line-height: 16px;
-  line-height: 17px;
-/*  line-height: 13px;*/
-/*  display: inline;*/
-
-
-}
 
 .blockquote {
   font-size: 1rem;
@@ -67,28 +34,40 @@ small,
   line-height: 1.38em;
 }
 
-.lead {
-  font-weight: 600;
+p {
+  font-size: 1rem;
+  line-height: 1.35em;
+  line-height: 1.38em;
 }
+
+
+.nav,
+table.archive thead th
+ {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 550;
+  letter-spacing: 0.08rem;
+  line-height: 1.35em;
+  overflow: none;
+}
+
+small,
+.archive {
+  font-size: 13px;
+  line-height: 17px;
+}
+
+
+.cite,
 .details {
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.15rem;
-}
-
-.pantone,
-.hex,
-.cmyk{
-  font-family: "Roboto Mono", monospace;
-  font-size: 13px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 17px;
-  opacity: 0.8;
 }
 
-
-tr.work td.year {
-  font-size: 9px;
-}
+/*.cite:before{*/
+/*  content:"— ";*/
+/*}*/
 

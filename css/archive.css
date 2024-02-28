@@ -38,6 +38,43 @@ table.archive th.sticky{
 }
 
 
+table.archive .company td{
+     padding-bottom: 30px;
+     padding-top: 10px;
+}
+
+table.archive th, 
+table.archive td{
+     padding: 4px 0 4px 0;
+}
+
+
+table.archive thead td.video{
+     padding: 0;
+}
+
+
+table.archive thead.video{
+     line-height: 0;
+}
+
+
+table.archive tfoot tr td{
+     padding-top: 60px;
+     padding-bottom: 40px;
+}
+
+tr.work td.year {
+  font-size: 9px;
+}
+
+.address{
+opacity: 0.7;
+}
+
+
+
+
 
 /* icon */
 

@@ -1,0 +1,17 @@
+
+.typesheet{
+  font-family: "Roboto Mono", monospace;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  opacity: 0.8;
+  width: 700px;
+     border-width: 0;
+     border-spacing: 0;
+     white-space: normal;
+}
+
+.typesheet td:nth-child(1){
+    width: 160px;
+}
