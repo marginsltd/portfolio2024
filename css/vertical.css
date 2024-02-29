@@ -6,6 +6,12 @@
   margin-top: 30px;
 }
 
+
+.h4{
+  margin-top: 30px;
+}
+
+
 .tiles{
   margin-top: 30px;
 }
@@ -15,6 +21,13 @@
 }
 .blockquote + .cite{
 	margin-top: 5px;
+}
+
+
+.header + .h1{
+/*  background-color: pink;*/
+  margin-top: 20px;
+
 }
 
 

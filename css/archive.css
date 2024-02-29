@@ -73,6 +73,22 @@ opacity: 0.7;
 }
 
 
+.feature-wrap{
+/*    background-color: grey;*/
+     padding: 5px 0 20px 0;
+    border-bottom: 2px solid rgba(0,0,0,0.8);
+
+}
+.feature{
+    display: grid;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+/*    width: 700px;*/
+/*    padding: 10px;*/
+     padding: 10px 0;
+    border-radius: 3px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 
 
 

@@ -1,7 +1,30 @@
-table.archive .company td{border-top: 1px solid rgba(0,0,0,0.8);}
-table.archive thead tr{border-bottom: none;}
-table.archive thead th.sticky{border-bottom: 1px solid rgba(0,0,0,0.8);}
-table.archive td{border-top: 1px solid rgba(0,0,0,0.18);}
-.showreel{border-bottom: 1px solid rgba(0,0,0,0.8);}
-.footer{border-top: 1px solid rgba(0,0,0,0.8);}
-.header{border-top: 1px solid rgba(0,0,0,0.8);}
+table.archive .company td{
+    border-top: 1px solid rgba(0,0,0,0.8);
+}
+ table.archive thead tr{
+    border-bottom: none;
+}
+
+ table.archive{
+    border-top: 1px solid rgba(0,0,0,0.8);
+
+}
+
+
+ table.archive thead th.sticky{
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+ table.archive td{
+    border-top: 1px solid rgba(0,0,0,0.18);
+}
+ .showreel{
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+ .footer{
+    border-top: 1px solid rgba(0,0,0,0.8);
+}
+ .header{
+    border-top: 1px solid rgba(0,0,0,0.8);
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+    padding: 4px 0 5px 0;
+}
