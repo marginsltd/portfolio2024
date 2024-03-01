@@ -91,6 +91,20 @@ opacity: 0.7;
 }
 
 
+.related{
+    display: grid;
+    max-width: 700px;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+/*    width: 700px;*/
+/*    padding: 10px;*/
+     padding: 10px 0;
+    border-radius: 3px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
 
 /* icon */
 

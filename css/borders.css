@@ -21,10 +21,23 @@ table.archive .company td{
     border-bottom: 1px solid rgba(0,0,0,0.8);
 }
  .footer{
-    border-top: 1px solid rgba(0,0,0,0.8);
+    border-top: 1px solid rgba(0,0,0,0.3);
 }
  .header{
     border-top: 1px solid rgba(0,0,0,0.8);
     border-bottom: 1px solid rgba(0,0,0,0.8);
     padding: 4px 0 5px 0;
+}
+
+
+hr
+{
+  padding: 0;
+  margin: 5px 0;
+  height: 1px;
+  background: none;
+  border-top: 1px solid rgba(0,0,0,0.3);
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
 }
