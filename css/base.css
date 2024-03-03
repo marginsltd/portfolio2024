@@ -30,6 +30,14 @@ a:hover{
      color: green;
      }
 
+a:hover img{
+     border: 2px solid green;
+     }
+
+a img{
+    border: 2px solid black;
+}
+
 
 hr
 {
