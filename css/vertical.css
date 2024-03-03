@@ -6,11 +6,13 @@
   margin-top: 30px;
 }
 
-
-/*.h4{
+img + .h4,
+div + .h4{
   margin-top: 30px;
+  margin-bottom: 10px;
+
 }
-*/
+
 
 .tiles{
   margin-top: 30px;
