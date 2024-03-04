@@ -18,14 +18,15 @@ strong{
 }
 
 .h1 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 2.25rem;
+  line-height: 2.5rem;
 }
 .h3 {
   font-size: 1.2rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.35em;
+  max-width: 500px;
 }
 
 .h4{
