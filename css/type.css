@@ -23,10 +23,11 @@ strong{
   line-height: 2.5rem;
 }
 .h3 {
-  font-size: 1.2rem;
+/*  font-size: 1.2rem;*/
+  font-size: 1.4rem;
   font-weight: 600;
   line-height: 1.35em;
-  max-width: 500px;
+/*  max-width: 500px;*/
 }
 
 .h4{
